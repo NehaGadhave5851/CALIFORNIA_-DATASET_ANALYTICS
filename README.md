@@ -1,5 +1,6 @@
-# CALIFORNIA_DATASET_ANALYTICS
-![](https://static.wixstatic.com/media/fe762a_24750f95570546878d04c6ccb5144cf6~mv2.jpg/v1/fill/w_568,h_320,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/fe762a_24750f95570546878d04c6ccb5144cf6~mv2.jpg)
+# 📍🐻🌴CALIFORNIA_DATASET_ANALYTICS
+
+![](https://content.skyscnr.com/m/154c7a8154abe47d/original/golden-gate-bidge-san-francisco-getty-550034713-jithesh-krishnanunny.jpg?resize=1200px:1200px&quality=100)
 
 # 📊 Financial Insights & Demographics Analysis Dashboard
 # 📌 Project Overview
