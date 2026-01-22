@@ -26,7 +26,7 @@ The project consists of two integrated dashboards:
 ---------
 
 # 📊 Dashboard 1: Financial Insights & Performance Analysis
-![](https://github.com/NehaGadhave5851/CALIFORNIA_-DATASET_ANALYTICS/blob/main/CALIFORNIYA_DASHBOARD/Screenshot%202026-01-22%20161544.png)
+![](https://github.com/NehaGadhave5851/CALIFORNIA_-DATASET_ANALYTICS/blob/main/CALIFORNIA_DASHBOARD/Screenshot%202026-01-22%20161544.png)
 
 # 🔍 Dashboard Components & Insights
 👥 Age vs Income by City
