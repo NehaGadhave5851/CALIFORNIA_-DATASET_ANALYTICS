@@ -1,180 +1,142 @@
-# CALIFORNIA_-DATASET_ANALYTICS
-Tableau  mini project
-📊 Financial & Demographics Insights Dashboard
-🔍 Project Overview
+# CALIFORNIA_DATASET_ANALYTICS
+![](https://static.wixstatic.com/media/fe762a_24750f95570546878d04c6ccb5144cf6~mv2.jpg/v1/fill/w_568,h_320,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/fe762a_24750f95570546878d04c6ccb5144cf6~mv2.jpg)
 
-This project presents an interactive analytics dashboard that provides deep insights into financial performance, demographics, lifestyle patterns, and health indicators across multiple cities, age groups, and education levels.
+# 📊 Financial Insights & Demographics Analysis Dashboard
+# 📌 Project Overview
 
-### Financial Insights & Performance Analysis
+This project presents an interactive Financial & Demographics Analytics Dashboard that analyzes income, savings, education, health, age, lifestyle, and city-wise financial patterns.
+The dashboard is designed to help analysts and decision-makers understand earning behavior, financial well-being, and lifestyle trends across different demographic segments.
+
+The project consists of two integrated dashboards:
+
+  - Financial Insights & Performance Analysis
+  - Demographics & Lifestyle Overview
+
+# 🎯 Project Purpose
+
+- The key objectives of this project are to:
+ 
+ - 💰 Analyze income distribution across age groups, cities, and education levels
+ - 🎓 Understand the impact of education on income
+ - ❤️ Explore relationships between health score and income
+ - 🏡 Study housing type and lifestyle patterns
+ - 📈 Identify top income earners and savings behavior
+ - 🌍 Support data-driven financial and social insights
+---------
+
+# 📊 Dashboard 1: Financial Insights & Performance Analysis
 ![](https://github.com/NehaGadhave5851/CALIFORNIA_-DATASET_ANALYTICS/blob/main/CALIFORNIYA_DASHBOARD/Screenshot%202026-01-22%20161544.png)
-This dashboard focuses on income, savings, education, health, and city-level financial performance.
 
-🔍 Inside Dashboard 1: Financial Insights & Performance Analysis
-📌 Purpose
+# 🔍 Dashboard Components & Insights
+👥 Age vs Income by City
 
-To analyze how income is influenced by age, education, city, health, and savings behavior, helping identify high-performing groups and financial patterns.
+- Compares annual income across age groups (1–30, 21–45, 45–60)
+- City-level breakdown highlights earning potential by location
 
-🔹 Age vs Income by City
+🎓 Average Income by Education Level
 
-Compares total annual income across different age groups (1–30, 21–45, 45–60)
+- Displays income comparison for:
+  - High School
+  - Bachelor
+  - Master
+  - PhD
+- Shows that higher education correlates with higher income
 
-Segmented by city for regional comparison
+❤️ Health vs Income
 
-🔹 Average Income by Education Level
+- Scatter plot analyzing health score vs annual income
+- Helps identify whether income level impacts overall health
 
-Shows how income varies by education:
+🏆 Top N Income Earners
 
-🎓 Bachelor
+- Highlights top income-earning individuals
+- Dynamic Top-N parameter for flexible analysis
 
-🎓 Master
+💸 Income vs Savings
 
-🎓 PhD
-
-🏫 High School
-
-🔹 Health vs Income (Scatter Plot)
-
-Visualizes the relationship between annual income and health score
-
-Colored by education level
-
-🔹 Income vs Savings (Scatter Plot)
-
-Displays how monthly savings grow with income
-
-Filterable by age group and city
-
-🔹 Top N Income Earners
-
-Highlights the highest income individuals
-
-Adjustable using a Top N slider 🎚️
-
-###  Demographics & Lifestyle Overview
-![](https://github.com/NehaGadhave5851/CALIFORNIA_-DATASET_ANALYTICS/blob/main/CALIFORNIYA_DASHBOARD/Screenshot%202026-01-22%20161642.png)
-This dashboard focuses on population structure, lifestyle choices, housing patterns, savings behavior, and health distribution.
-
-🔍 Inside Dashboard 2: Demographics & Lifestyle Overview
-📌 Purpose
-
-To understand the demographic composition of individuals and how lifestyle factors vary across age, gender, and education.
-
-🔹 Educational Background
-
-Distribution of individuals by education level
-
-🔹 Gender Distribution
-
-Gender-wise population split:
-
-👩 Female
-
-👨 Male
-
-🧑 Other
-
-🔹 Housing Type Comparison
-
-Comparison of housing status:
-
-🏠 Own
-
-🏢 Rent
-
-🤝 Shared
-
-Segmented by gender
-
-🔹 Age Group Distribution
-
-Population count across age bins (15–60 years)
-
-🔹 Savings Distribution
-
-Monthly savings grouped into bins
-
-Helps identify saving behavior patterns
-
-🔹 Health Score Distribution
-
-Box plots showing health score variation across age groups
-
-Insight: 💡 Higher health scores observed around age 25
-
-3️⃣ City-Level Analysis
-
-🔹 Total Income by City
-
-Aggregated annual income comparison across cities such as:
-
-Bakersfield
-
-Fresno
-
-Long Beach
-
-Los Angeles
-
-Oakland
-
-Sacramento
-
-San Diego
-
-San Francisco
-
-San Jose
+- Scatter plot showing relationship between:
+  - Annual Income
+  - Monthly Savings
+- Identifies saving patterns across income groups
 
 🎛️ Interactive Filters
 
-The dashboard includes multiple filters for dynamic analysis:
+ - City
+ - Education Level
+ - Age Group
+ - Top-N selection
+---------
 
-🌆 City Selector
+# 📈 Dashboard 2: Demographics & Lifestyle Overview
 
-🎓 Education Level Filter
+![](https://github.com/NehaGadhave5851/CALIFORNIA_-DATASET_ANALYTICS/blob/main/CALIFORNIYA_DASHBOARD/Screenshot%202026-01-22%20161642.png)
 
-👥 Age Group Selector
+# 🔍 Dashboard Components & Insights
+🎓 Educational Background
 
-🏆 Top N Earners Slider
+ - Distribution of population by education level
+ - Helps understand education composition
 
-🔄 In / Out of Person Filter
+⚥ Gender Distribution
 
-🛠️ Tools & Technologies Used
+ - Breakdown of Male, Female, and Other categories
+ - Useful for demographic balance analysis
 
-📊 Tableau / Power BI – Dashboard creation & visualization
+🏠 Housing Type Comparison
 
-📁 CSV Dataset – Data source
+ - Comparison of Own, Rent, and Shared housing
+ - Split by gender for lifestyle insights
 
-🐙 GitHub – Version control & project sharing
+🎂 Age Group Distribution
 
-🎯 Key Insights
+ - Population distribution across age bins
+ - Identifies dominant age segments
 
-✅ Higher education generally correlates with higher income
+😊 Satisfaction Rating Composition
 
-✅ Income and savings show a positive relationship
+ - Visualizes customer/lifestyle satisfaction ratings
+ - Helps assess overall quality of life indicators
 
-✅ Certain cities consistently generate higher total income
+💾 Savings Distribution
 
-✅ Younger age groups tend to show better health scores
+ - Distribution of monthly savings
+ - Shows common saving ranges across population
 
-🚀 How to Use This Project
+❤️ Health Score Distribution
 
-Clone the repository 📥
+ - Health score variation by age group
+ - Highlights health trends across different ages
 
-Open the dashboard file in Tableau / Power BI
+🌆 Total Income by City
 
-Use filters to explore insights interactively
+ - Compares total income generated across cities
+ - dentifies economically strong cities
+-------- 
+# 🛠️ Tools & Technologies Used
 
-Analyze trends and derive business or social insights
+- 📊 Tableau – Interactive dashboards & visual analytics
+- 📄 CSV / Excel Dataset – Financial & demographic data
+- 🧮 Data Analytics Techniques – Aggregations, correlations, KPIs
+- 💻 GitHub – Version control & project documentation
+---------
 
-📌 Future Enhancements
+# 🚀 Key Outcomes & Insights
 
-📈 Add time-series income trends
+- ✔️ Clear understanding of income inequality & trends
+- ✔️ Strong correlation between education and income
+- ✔️ Identification of top earners & saving behaviors
+- ✔️ Insights into health, lifestyle, and demographic patterns
+- ✔️ Supports financial planning and policy analysis
+---------
 
-🤖 Apply predictive analytics
+# 📌 Conclusion
 
-🌍 Expand dataset to more regions
+This Financial & Demographics Dashboard provides a holistic view of economic and lifestyle behavior across different population segments.
+It enables analysts to derive meaningful insights, identify trends, and support strategic decision-making using data visualization.
 
-📊 Add KPI summary cards
+-----------
+
+# ⭐ If you find this project useful, consider giving it a star on GitHub!
+
 
 
