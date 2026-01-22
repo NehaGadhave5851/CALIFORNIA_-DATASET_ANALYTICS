@@ -70,7 +70,7 @@ The project consists of two integrated dashboards:
 
 # 📈 Dashboard 2: Demographics & Lifestyle Overview
 
-![]()
+![](https://github.com/NehaGadhave5851/CALIFORNIA_-DATASET_ANALYTICS/blob/main/CALIFORNIA_DASHBOARD/Screenshot%202026-01-22%20161642.png)
 
 # 🔍 Dashboard Components & Insights
 🎓 Educational Background
